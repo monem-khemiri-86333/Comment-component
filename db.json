@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "username": "wajdi Khmiri",
+      "profilepicture": "img/profilePic.jpg",
+      "comment": "blalaala lblalalbaalalblblbal bklsn,zdkx,z okndjoezjdnx ndioznd ozjdozjd zodkzpodkj ozndoznjd allba",
+      "datetime": "2m",
+      "replies": []
+    },
+    {
+      "id": 2,
+      "username": "Monem Khmiri",
+      "profilepicture": "./img/profilePic.jpg",
+
+      "comment": "blalaala lblaksnxkznx kzndxkizndx zxkzkojolzodxzopdopz lalbaalalblblbal ballba",
+      "datetime": "2h",
+      "replies": []
+    },
+    {
+      "id": 3,
+      "username": "Wissal Khmiri",
+      "profilepicture": "./img/profilePic.jpg",
+
+      "comment": "blalaala lblalalbaalalknsdkxnzdx ,zd,z blblbal ballb jzb,zdxkznxk nkizdnzk kzndkz dnjzdbn izndikznd izndikzjdn izndikzn ihzhz a",
+      "datetime": "2d",
+      "replies": []
+    },
+    {
+      "id": 4,
+      "username": "Sadok Khmiri",
+      "profilepicture": "./img/profilePic.jpg",
+
+      "comment": "blalaala lblalalbaalalblkzndndkiz ikzniznx iznsizkj kzndizdi izjdizj kiznjdsizni kizndknzz blbal ballba",
+      "datetime": "2m",
+      "replies": []
+    },
+    {
+      "id": 5,
+      "username": "Taher Khmiri",
+      "profilepicture": "./img/profilePic.jpg",
+
+      "comment": "blalaala lblalalbaalalblblbal ballb lksldmskd hzudhzud yvsyazvsgz uasguasun ijsozj ozjsozjs ksnxknu zishizhds izhsizs a",
+      "datetime": "3d",
+      "replies": []
+    },
+    {
+      "id": 6,
+      "username": "Fatma Khmiri",
+      "profilepicture": "./img/profilePic.jpg",
+
+      "comment": "blalaala lblalalbaalalblblbal ballb uhdzhd izsdozjosz iqshqshiqjs ihsizhdi izhdizhdiz ihdzi ksjdkzsjd kijdizjdijzza",
+      "datetime": "2m",
+      "replies": [
+        {
+          "id": 1,
+          "username": "Fatma Khmiri",
+          "profilepicture": "./img/profilePic.jpg",
+
+          "comment": "blalaala lblalalbaalalblblbal ballb uhdzhd izsdozjosz iqshqshiqjs ihsizhdi izhdizhdiz ihdzi ksjdkzsjd kijdizjdijzza",
+          "datetime": "2m"
+        },
+        {
+          "id": 2,
+          "username": "Fatma Khmiri",
+          "profilepicture": "./img/profilePic.jpg",
+
+          "comment": "blalaala lblalalbaalalblblbal ballb uhdzhd izsdozjosz iqshqshiqjs ihsizhdi izhdizhdiz ihdzi ksjdkzsjd kijdizjdijzza",
+          "datetime": "2m"
+        },
+        {
+          "id": 3,
+          "username": "Fatma Khmiri",
+          "profilepicture": "./img/profilePic.jpg",
+
+          "comment": "blalaala lblalalbaalalblblbal ballb uhdzhd izsdozjosz iqshqshiqjs ihsizhdi izhdizhdiz ihdzi ksjdkzsjd kijdizjdijzza",
+          "datetime": "2m"
+        }
+      ]
+    }
+  ],
+
+  "users": [
+    {
+      "id": 6,
+      "username": "Wajdi Khmiri",
+      "profilepicture": "./img/profilePic.jpg"
+    }
+  ]
+}
